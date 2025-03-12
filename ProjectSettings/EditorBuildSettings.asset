@@ -5,12 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Menu.unity
     guid: ae666798a74d3a5488e0c0ec42a1265d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Main.unity
     guid: 49eb575efe7f42741b60381cc0e8b633
+  - enabled: 1
+    path: Assets/Scenes/bauerfelAR.unity
+    guid: a4ebb56d2bf57c442b7e2786d39adeda
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 58d546c2f4769334c820caaa8979f132, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2704cb568d963014dbab8d4bd7ff3ee4, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ab75af3b812c7ee499870e09d77d859c, type: 2}
